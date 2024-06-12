@@ -1,0 +1,3 @@
+[submodule "codecrafters-shell-go"]
+	path = codecrafters-shell-go
+	url = https://git.codecrafters.io/8898a056ab5787af
